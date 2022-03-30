@@ -7,10 +7,10 @@ Heading are created using #.
 Example:
 
 
-#Title
+# Title
 
 
-##Heading
+## Heading
 
 
-##Sub-heading
+## Sub-heading
