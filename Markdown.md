@@ -6,8 +6,11 @@ This guide is about writing markdown files
 Heading are created using #.
 Example:
 
+
 #Title
 
+
 ##Heading
+
 
 ##Sub-heading
