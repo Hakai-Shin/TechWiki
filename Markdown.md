@@ -8,9 +8,11 @@ Example:
 
 
 # Title
+Title has #
 
 
 ## Heading
-
+Heading has ##
 
 ### Sub-heading
+Sub-heading has ###
