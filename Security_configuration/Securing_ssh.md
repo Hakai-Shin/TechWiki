@@ -6,7 +6,7 @@ firewall-cmd --permanent --remove-service=ssh
 ```
 Create the new zone:
 ```
-firewall-cmd --permanent --new-zone=onnetnetwork
+firewall-cmd --permanent --new-zone=<zone_name>
 ```
 Add the SSH service and the network to the zone.
 ```
