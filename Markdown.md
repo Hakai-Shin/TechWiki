@@ -13,4 +13,4 @@ Example:
 ## Heading
 
 
-## Sub-heading
+### Sub-heading
