@@ -10,8 +10,8 @@ firewall-cmd --permanent --new-zone=<zone_name>
 ```
 Add the SSH service and the network to the zone.
 ```
-firewall-cmd --permanent --zone=onnetnetwork --add-source=<ip_address>
-firewall-cmd --permanent --zone=onnetnetwork --add-service=ssh
+firewall-cmd --permanent --zone=<zone_name> --add-source=<ip_address>
+firewall-cmd --permanent --zone=<zone_name> --add-service=ssh
 ```
 Then, reload the firewall to make the new configuration active.
 ```
